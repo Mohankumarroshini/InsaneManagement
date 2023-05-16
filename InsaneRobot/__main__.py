@@ -370,7 +370,7 @@ def Insane_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="sᴜᴩᴩᴏʀᴛ", callback_data="InsaneSupportChat"
+                            text="sᴜᴩᴩᴏʀᴛ", url=f"https://t.me/tamilpettikadai"
                         ),
                         InlineKeyboardButton(
                             text="ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"
