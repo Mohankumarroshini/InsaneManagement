@@ -412,11 +412,11 @@ def Insane_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="ɢɪᴛʜᴜʙ",
-                            url="https://github.com/TheTeamInsane",
+                            url="https://github.com/iambluedragon",
                         ),
                     ],
                     [
-                        InlineKeyboardButton(text="◁", callback_data="Insane_"),
+                        InlineKeyboardButton(text="◁", callback_data="Insane_back"),
                     ],
                 ]
             ),
@@ -448,10 +448,10 @@ def Source_about_callback(update: Update, context: CallbackContext):
 ᴀɴᴅ ᴜsɪɴɢ [sǫʟᴀʟᴄʜᴇᴍʏ](https://www.sqlalchemy.org) ᴀɴᴅ [ᴍᴏɴɢᴏ](https://cloud.mongodb.com) ᴀs ᴅᴀᴛᴀʙᴀsᴇ.
 
 
-*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ɢɪᴛʜᴜʙ](https://github.com/TheTeamInsane/InsaneManagement)
+*ʜᴇʀᴇ ɪs ᴍʏ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ :* [ᴏᴡɴᴇʀ](https://t.me/my_dear_lightbright)
 
 
-{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://github.com/TheTeamInsane/InsaneManagement/blob/master/LICENSE).
+{BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://t.me/my_dear_lightbright).
 © 2022 - 2023 | [sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ](https://t.me/{SUPPORT_CHAT}), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 """,
             parse_mode=ParseMode.MARKDOWN,
@@ -730,7 +730,7 @@ def main():
  ◆ **Tᴇʟᴇᴛʜᴏɴ** ⊱ `{tlhver}`
  ◆ **Pʏʀᴏɢʀᴀᴍ** ⊱ `{pyrover}`
  ╰⸻⸻⸻╯
-|| Pᴏᴡᴇʀᴇᴅ ʙʏ [˹Team Insane˼](https://t.me/TheTeamInsane) ||""",
+|| Pᴏᴡᴇʀᴇᴅ ʙʏ [𝐌𝐒𝐃✨](https://t.me/my_dear_lightbright) ||""",
                 parse_mode=ParseMode.MARKDOWN,
             )
         except Unauthorized:
