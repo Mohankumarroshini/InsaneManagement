@@ -721,7 +721,7 @@ def main():
                 photo=START_IMG,
                 caption=f"""
 ㅤㅤ
-**Insane Management** ɪs ᴡᴏʀᴋɪɴɢ ғɪɴᴇ ᴀs ᴡɪɴᴇ...🍷💫
+**Hera Beauty** ɪs ᴡᴏʀᴋɪɴɢ ғɪɴᴇ ᴀs ᴡɪɴᴇ...🍷💫
  ╭⸻⸻⸻╮
  ◆ **Pʏᴛʜᴏɴ** ⊱ `{y()}`
  ◆ **Lɪʙʀᴀʀʏ** ⊱ `{telever}`
@@ -733,7 +733,7 @@ def main():
             )
         except Unauthorized:
             LOGGER.warning(
-                f"Bot isn't able to send message to @InsaneSupport365, go and check!"
+                f"Bot isn't able to send message to @tamilpettikadai, go and check!"
             )
         except BadRequest as e:
             LOGGER.warning(e.message)
