@@ -17,7 +17,7 @@ async def repo(_, message: Message):
 
 ɪ ᴀᴍ [{BOT_NAME}](https://t.me/{BOT_USERNAME})**
 
-**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ :** Tᴇᴀᴍ●Insane
+**» ᴍʏ ᴅᴇᴠᴇʟᴏᴘᴇʀ :** [ᴍsᴅ](https://t.me/my_dear_lightbright)
 **» ᴩʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{y()}`
 **» ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{o}` 
 **» ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{s}` 
@@ -29,7 +29,7 @@ async def repo(_, message: Message):
                     InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴘᴇʀ", user_id=OWNER_ID),
                     InlineKeyboardButton(
                         "sᴏᴜʀᴄᴇ",
-                        url="https://github.com/TheTeamInsane/InsaneManagement",
+                        url="https://t.me/{SUPPORT_CHAT}",
                     ),
                 ]
             ]
